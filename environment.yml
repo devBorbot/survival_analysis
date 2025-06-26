@@ -12,4 +12,5 @@ dependencies:
   - scikit-learn
   - causalml
   - notebook
+  - ipywidgets
   - pip
